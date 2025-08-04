@@ -18,4 +18,4 @@ The calculator operates via a **menu-driven interface**, allowing users to perfo
 ### 1. **Clone the Repository**
 Clone the project to your local machine using Git:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/vaishnavishitole2/Java-Console-Calculator---Internship-Task.git>
